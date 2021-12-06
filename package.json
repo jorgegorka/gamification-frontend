@@ -1,0 +1,14 @@
+{
+  "name": "gamification",
+  "version": "1.0.0",
+  "description": "A gamification and event tracking engine.",
+  "main": "index.js",
+  "author": "Jorge Alvarez",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "postcss-import": "^14.0.2",
+    "tailwindcss": "^2.2.19"
+  }
+}
